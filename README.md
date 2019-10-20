@@ -1,5 +1,7 @@
 # week6room
 
+訂房網站應用，API串接、正則表達式
+
 ## Demo
 https://fizzyelt.github.io/week6roomDemo/dist/#/
 
