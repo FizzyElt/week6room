@@ -1,5 +1,8 @@
 # week6room
 
+## Demo
+https://fizzyelt.github.io/week6roomDemo/dist/#/
+
 ## Project setup
 ```
 npm install
