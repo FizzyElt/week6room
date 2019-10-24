@@ -5,6 +5,10 @@
 ## Demo
 https://fizzyelt.github.io/week6roomDemo/dist/#/
 
+## SPA樹狀圖
+
+<img src="./RoomBook.png">
+
 ## Project setup
 ```
 npm install
