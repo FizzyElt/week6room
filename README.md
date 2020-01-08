@@ -3,7 +3,7 @@
 訂房網站應用，API串接、正則表達式
 
 ## Demo
-https://fizzyelt.github.io/week6roomDemo/dist/#/
+https://fizzyelt.github.io/week6room/dist/index.html#/
 
 ## SPA樹狀圖
 
