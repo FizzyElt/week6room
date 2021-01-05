@@ -14,7 +14,7 @@
     "@livelybone/vue-datepicker": "^3.1.0",
     "@northwalker/vue-hotel-datepicker": "^2.0.5",
     "@trvl/picker": "^0.5.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "moment": "^2.24.0",
     "moment-range": "^4.0.2",
